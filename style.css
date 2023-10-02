@@ -699,7 +699,27 @@ footer {
     width: 17px;
     height: 17px;
   }
+
+  #footer-nav #logo {
+    margin-bottom: 2rem;
+  }
   
+  #footer-nav li a{
+    margin: 0 1.2em
+  }
+
+  #social-links img {
+    width: 15px;
+    height: 15px;
+  }
+
+  #social-links {
+    width: 150px;
+  }
+
+  #footer-nav {
+    margin: 0;
+  }
 } 
 
 
@@ -776,13 +796,15 @@ footer {
     margin: 6rem 0;
   }
 
-  #social-links img {
-    width: 17px;
-    height: 17px;
-  }
-
   #footer-nav #logo {
     width: 150px;
-    margin-bottom: 3rem;
+  }
+
+  #footer-nav li a{
+    font-size: 0.7em;
+  }
+
+  #footer-nav {
+    margin: 0;
   }
 }
