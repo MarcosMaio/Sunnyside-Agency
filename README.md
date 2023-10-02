@@ -2,7 +2,7 @@
 
 This website project was implemented as a challenge from Front-End Mentor. The site is a simple yet creatively designed landing page with vibrant colors, making it visually appealing. It's designed to be responsive and can be viewed on various devices.
 
-![Site image](https://lh3.googleusercontent.com/pw/ADCreHeCPOwpddCcXixraJBhNaj9Hvo8YoeVwvE94qmeNukYmCsKC2H7DYdYDB8FeK-5qtXsYzgACitoRhsk2Wcer-KntMy1vFY0lc_xhbD7kwaTwBpVLa11rtcAAYZ36PEeAXuCQ6F2wcvn1wDXKpq_rNc=w598-h742-s-no?authuser=1)
+![Site image](https://lh3.googleusercontent.com/pw/ADCreHf4UjhbHpdsROm1yvKoo252BhSEWav23LTF3c2CsO9_1gLaV2U2y1gipQIgKdSgFKzTQneFfXGRP2V5Npszm1D3gTbHIdT1odVfAKj_qVCNVtkta1fRaygLZR439o3gaabHt0xtm5tRym1NoeaCWOk=w748-h927-s-no?authuser=1)
 
 
 ## Technologies Used
